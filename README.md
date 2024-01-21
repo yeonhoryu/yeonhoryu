@@ -10,7 +10,7 @@
 ⚡ Fun fact: 
    1. AS/400 and IBM Mainframe Developer: 1993 - 2004
    2. AWS best price automatical submit system: 2012
-   3. MIT Boostrap is my second time bootcamp, the first bootcamp developed  wordprocessor using C, MS SQL-DB and C/S system at 1991. 
+   3. MIT MERN bootcamp is my second time bootcamp, the first bootcamp developed  wordprocessor using C, MS SQL-DB and C/S system at 1991. 
 
 <!--
 **yeonhoryu/yeonhoryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
